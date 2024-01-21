@@ -1,0 +1,77 @@
+Chapter: IV Collection or More on Data type:
+
+
+Collection---Collection of objects to store a single objects--Collections
+
+
+List, Tuples, Dictionary, Set
+
+
+To get the n number details ---bunches of the data..
+
+
+List:
+
+---List is a collection of homogenenous or hetergeneous  
+
+---List having index based on index to add the delete the data is possible.
+
+--index starts with zero
+
+--List allowed duplicate items.
+
+--List having slicing
+
+---identify the list means for []
+
+---List is a mutable
+
+
+
+
+Tuples:
+
+
+---Tuple is a collection of homogenenous or hetergeneous  
+
+----Tuples having index based on index to add the delete the data is possible.
+
+--Tuples starts with zero
+
+--Tuples allowed duplicate items.
+
+--tuples having slicing
+
+---identify the Tuples means for ()
+
+---Tuple is a immutable
+
+
+
+Set:
+
+---its set of the Elements:
+
+---doesn't allowed duplicate items.
+
+---{10,20,30}
+
+
+Dictionary:
+
+Key value pair=={}
+
+{
+
+id:101,
+name:"Jeeeva";
+}
+
+
+
+
+
+
+
+
+

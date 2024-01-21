@@ -1,0 +1,90 @@
+ Functions:
+
+
+----Two Types Functions:
+
+
+140000 pakages-different
+sum()
+mean()
+median()
+------------Built in functions--
+------------User Defined Functions:
+
+
+syntax:
+
+function definition:
+
+function declaration:
+
+
+syntax in python user defined functions:
+
+def functionname():
+       statements
+
+
+
+
+
+
+Why?
+What?
+When
+
+
+
+is a sub program. or else set of statements
+
+
+Code reusability
+
+
+print()
+range()
+
+input()
+int()
+
+
+Arguments:
+
+
+1. Actual argument
+2.Formal Arguments
+
+a=10
+b=20
+c=a+b;
+
+
+return statements:
+
+
+it will be back into the function declarations.
+
+
+Functions:
+
+Arugment Types:
+
+Required Arguments--its a mandatory
+
+Default Arguments---
+
+Variable Length Arguments
+
+Key word Arguments.
+
+
+
+
+
+
+
+
+
+ 
+
+

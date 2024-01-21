@@ -1,0 +1,91 @@
+
+Key word Arguments.
+
+-----mention the parameters for function definition or function declaration in specification orders
+
+
+keywords arguments:
+
+
+def simple(p,n,r):
+      return p*n*r/100
+
+
+print(simple(n=10,r=2,p=30000))
+
+Variable length Arguments:
+
+to combine that multiple values into single variable 
+
+
+def namelist(f,s,t,ff,fff):
+   
+
+
+def namelist(*names):
+           for n in names:
+                print("Name is:",n)
+
+
+namelist("Jeeva","Karthick","Prakash","Rahul","Able")
+
+
+
+Task:
+
+
+1. write a python program to print the factorial of number is 5 using functions.
+
+2. write a python program to print whether the given number is armstrong or not using functions
+
+
+def factorial(n)
+     fact=1
+     for i in range(1,n+1):
+          fact=fact*i
+     print("the factorial is:",fact)
+
+
+n=int(input("Enter the number"))
+
+factorial(n)
+
+
+
+
+
+Recursive Function:
+
+
+
+A function called again and again itself that is called Recursion Function..
+
+
+def fact(n):
+    if n==1:
+        return 1
+    else:
+        return n*fact(n-1)
+
+
+n=int(input("enter the number:"))
+
+print("the Factorial is:",fact(n))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
